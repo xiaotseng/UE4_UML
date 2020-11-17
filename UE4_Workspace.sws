@@ -7,6 +7,7 @@
 		<Model Expanded="Yes" ID="{DC1C5933-B930-4A46-B433-2CC33D557FDE}" Name="UE4" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="UE4.oom"/>
 		<Model Expanded="Yes" ID="{E4A9DDB0-F4FB-4719-BBCD-516B30DF1784}" Loaded="No" Name="D3D12" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="D3D12/D3D12.prj"/>
 		<Model Expanded="Yes" ID="{F3F5DAB0-F262-4BB0-8219-2E2CAEAE728A}" Loaded="No" Name="UserSystem" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Userh.pdm"/>
+		<Model Expanded="Yes" ID="{43C629D0-2875-4A16-BE47-0BCBEE7225A8}" Name="RuntimeMeshComponent" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="RuntimeMeshComponent.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
